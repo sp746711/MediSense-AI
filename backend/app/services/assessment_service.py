@@ -1,0 +1,1 @@
+"""Assessment orchestration service stub."""
